@@ -1,4 +1,6 @@
-while True:
+xansomnia = true
+
+while xansomnia = True:
     print("wanna kill myself")
 
 
